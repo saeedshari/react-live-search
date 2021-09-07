@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    color: midnightblue;
+}
+.form-control {
+    width: 50%;
+    margin: 10px auto;
+}
+.form-control input{
+    padding: 0.5rem 1rem;
+    border: none;
+    border-bottom: 2px solid #888;
+    outline: none;
+    font-size: 18px;
+    width: 100%;
+}
+.form-control input:focus {
+    border-bottom: 2px solid royalblue;
+}
+.form-control label {
+    float: right;
+    font-size: 18px;
+}
